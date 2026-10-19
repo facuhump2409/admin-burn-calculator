@@ -59,3 +59,4 @@ logs/
 .eslintcache
 .vercel
 .env*.local
+.env*
